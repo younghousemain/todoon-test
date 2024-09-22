@@ -25,5 +25,3 @@ jobs:
     with: 
       issues: true
       can_fail: true
-    secrets:
-      todoon_client_pem: ${{ secrets.TODOON_CLIENT_PEM }} 
